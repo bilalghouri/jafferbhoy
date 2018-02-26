@@ -1785,32 +1785,38 @@ blockquote {
 
 @media (max-width: 768px) {
 .handwritten-container .signature {
-      /*margin-top: -30px !important;*/
+      max-width: 25%;
   }
 
-h1 {
-  font-size: 2rem !important;
-}
+  h1 {
+    font-size: 2rem !important;
+  }
 
-section .section-heading {
-    text-align: center;
-    margin-bottom: 1rem !important;
+  section .section-heading {
+      text-align: center;
+      margin-bottom: 1rem !important;
+  }
 }
-
-  .handwritten {
-    font-size: 1.8em;
-    line-height: 30px;
-    letter-spacing: 2.5px;
+@media (max-width: 470px) {
+      .handwritten {
+    font-size: 1.8em !important;
+    line-height: 30px !important;
+    letter-spacing: 2.5px !important;
   }
   .signature {
     max-width: 25%;
   }
 }
-
-@media (max-width: 990px) {
+@media (min-width: 990px) {
     section#Craftmanship {
 
     height: auto !important;
 }
+
+ .handwritten {
+    font-size: 2.5em !important;
+    line-height: 38px !important;
+    letter-spacing: 2.6px !important;
+  }
 }
 

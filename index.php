@@ -72,8 +72,8 @@
                         </div>
                     </div>
                     <div class="row justify-content-between ">
-                        <div class="col-md-6 col-sm-12 pr-4 pr-sm-2">
-                            <div class="text-md-right text-center">
+                        <div class="col-lg-6 col-12 pr-4 pr-sm-2">
+                            <div class="text-lg-right text-center">
                                 <span>
                                     Our family business was established in 1936 by Mr. Jafferbhoy Meheralli who started exporting
 leather to Italy, Switzerland and parts of Europe.<br />
@@ -91,8 +91,8 @@ among the leaders in the leather industry.
                                 </span>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-12 pl-4 pr-sm-2">
-                            <div class="text-md-left text-center handwritten-container mt-5 mt-md-1">
+                        <div class="col-lg-6 col-12 pl-4 pr-sm-2">
+                            <div class="text-lg-left text-center handwritten-container mt-5 mt-lg-1">
                                 <span class="handwritten">
                                     We believe that passion fuels desire.<br />
                                     we are stronger because our foundation is built with the strength of
@@ -118,13 +118,13 @@ changed, but one underlying idea has stayed the same – <br /><br />“The cust
     		<section id="Craftmanship" class="jumbotron craftmanship-container">
                 <div class="container">
                     <div class="row justify-content-between ">
-                        <div class="col-12 col-md-5">
-                            <div class="">
-                                <img class="img-fluid h-90 d-block mx-auto float-left" src="assets/images/667903357.jpg" />
-                            </div>
+                        <div class="col-12 col-lg-5" style="max-height: 500px; overflow: hidden">
+
+                                <img class="img-fluid d-block mx-auto float-left" src="assets/images/667903357.jpg" />
+
                         </div>
-                        <div class="col-md-6 col-12">
-                            <div class="text-md-left text-center mt-5">
+                        <div class="col-lg-6 col-12" style="overflow: hidden">
+                            <div class="text-left mt-5">
                                 <h1>Craftmanship</h1>
                                 <span>
                                     We own our tanneries.<br />
@@ -147,7 +147,7 @@ changed, but one underlying idea has stayed the same – <br /><br />“The cust
                     <div class="content">
                         <div class="row justify-content-between flex-column-reverse flex-md-row">
                             <div class="col-md-6 col-12 mt-5 mt-md-1">
-                                <div class="text-center text-md-left">
+                                <div class="text-left">
                                     <h1>Our Leather</h1>
                                     <span>Our Tannery works with the latest machines and technology to
 prodice the finest quality of sheep, lamb, and goat leather.<br />
@@ -171,7 +171,7 @@ A separate quality control department is responsible for visual inspection and g
 
                             </div>
                             <div class="col-12 col-lg-6 mt-3">
-                                <div class="text-center text-md-left">
+                                <div class="text-left">
                                     <h3>Naked Leather</h3>
                                     <p>
 Our most popular quality of leather has a super soft hand feel. A garment

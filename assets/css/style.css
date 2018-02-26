@@ -85,9 +85,17 @@ section#AboutLeather, #AboutLeather .content {
     transition: all 0.3s ease 0s;
 }
 section#Craftmanship {
-    background-color: #f8f7f4;
-    height: 660px;
+    background-color: #f8f7f4 !important;
+
     /*padding-top: 134px;*/
+background: url('../images/sketch-woman.png');
+    background-position: 44% 80px;
+    background-repeat: no-repeat;
+    background-size: 20%;
+
+}
+.craftmanship-container {
+
 }
 section#Contact {
     background-color: #FDFCFA;
@@ -260,12 +268,7 @@ section#Contact {
     margin-bottom: -120px;
 }*/
 
-.craftmanship-container {
-    background: url('../images/sketch-woman.png');
-    background-position: 44% 130px;
-    background-repeat: no-repeat;
-    background-size: 13%;
-}
+
 .signature {
     /*margin-top: -50px;*/
 }
