@@ -407,7 +407,13 @@
 /* Tablet desktop :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
 
-
+.portfolio-title > h3 {
+  font-size: 20px;
+  margin-bottom: 18px;
+}
+.portfolio-title > h3 i {
+  font-size: 20px;
+}
 .slider-active.owl-carousel .owl-nav div {
   left: 15px;
 }

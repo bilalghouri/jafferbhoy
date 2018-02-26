@@ -67,7 +67,7 @@
             <section id="OurStory" class="pt-70">
                 <div class="container">
                     <div class="row justify-content-center">
-                        <div class="col section-heading mt-4 mt-md-1">
+                        <div class="col section-heading mt-5 mt-md-1 mt-lg-5">
                             <h1>82 years of excellence</h1>
                         </div>
                     </div>
@@ -142,11 +142,11 @@ changed, but one underlying idea has stayed the same – <br /><br />“The cust
                 </div>
     		</section>
 
-            <section id="AboutLeather" class="pt-5 pb-5 ">
+            <section id="AboutLeather" class="pt-5 pb-5 pr-3 pl-3">
                 <div class="container">
                     <div class="content">
                         <div class="row justify-content-between flex-column-reverse flex-md-row">
-                            <div class="col-md-6 col-12 mt-5 mt-md-1">
+                            <div class="col-md-6 col-12 mt-lg-5 ">
                                 <div class="text-left">
                                     <h1>Our Leather</h1>
                                     <span>Our Tannery works with the latest machines and technology to
@@ -214,7 +214,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                 <div class="container">
                 </div>
             </section>
-            <section id="Products" class="jumbotron pt-0">
+            <section id="Products" class=" pt-0">
                 <div class="containers">
 
                     <div class="portfolio-area ptb-80">
@@ -231,7 +231,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                             </div>
                             <div class="portfolio-style">
                                 <div class="row grid">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -248,7 +248,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat2">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat2">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -265,7 +265,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -282,7 +282,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -299,7 +299,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -316,7 +316,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat2">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat2">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -333,7 +333,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-sm-12 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -350,7 +350,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat2">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat2">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -367,7 +367,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -384,7 +384,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -401,7 +401,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -418,7 +418,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-sm-12 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -435,7 +435,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -452,7 +452,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -469,7 +469,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
@@ -486,7 +486,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 grid-item cat1">
+                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
                                         <div class="single-portfolio portfolio-hover mb-30">
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
