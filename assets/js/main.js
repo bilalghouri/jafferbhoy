@@ -19,13 +19,13 @@
 
 
 
-    $('#AboutLeather .content').readmore({
-      speed: 750,
-      collapsedHeight: 340,
-      lessLink: '<div class="row mt-5 justify-content-center"><a class="text-small text-uppercase" href="#">Close <i class="fa fa-arrow-up"></i></a></div>',
-      moreLink: '<div class="row mt-5 justify-content-center"><a class="text-small text-uppercase" href="#">Read More <i class="fa fa-arrow-down"></i></a></div>',
+//     $('#AboutLeather .content').readmore({
+//       speed: 750,
+//       collapsedHeight: 340,
+//       lessLink: '<div class="row mt-5 justify-content-center"><a class="text-small text-uppercase" href="#">Close <i class="fa fa-arrow-up"></i></a></div>',
+//       moreLink: '<div class="row mt-5 justify-content-center"><a class="text-small text-uppercase" href="#">Read More <i class="fa fa-arrow-down"></i></a></div>',
 
-});
+// });
 
     // $('.slider-active').owlCarousel({
     //     loop: true,

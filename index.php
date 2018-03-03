@@ -106,6 +106,9 @@ changed, but one underlying idea has stayed the same – <br /><br />“The cust
                     <!-- <div class="row mt-110 mt-xl-5 justify-content-center" style="">
                         <a class="text-small text-uppercase" href="/products">Read More <i class="fa fa-arrow-right"></i></a>
                     </div> -->
+                    <div id="AwardWinning" class="mt-5 mb-5 text-center text-uppercase align-middle">
+                        <h1 class="d-inline-flex">We know our leather</h1>
+                    </div>
                     <div class="row d-sm-block text-center">
                         <div class="col-12 arrow-down mt-5 mb-5">
                             <a href="#Craftmanship"><img class="mx-auto d-block" src="assets/images/arrow down.png" /></a>
@@ -166,9 +169,56 @@ A separate quality control department is responsible for visual inspection and g
                         </div>
                         <div class="row justify-content-between ">
                             <div class="col-lg-6 col-12 mt-100 leathertypes">
-                                <img class="img-fluid d-block mx-auto float-left w-50" src="assets/images/leather jackets.png" style="" />
-                                <img class="img-fluid d-block mx-auto" src="assets/images/sketch 3.png" style="max-height: 300px; width: auto" />
 
+                                    <img class="img-fluid d-block mx-auto float-left w-50" src="assets/images/leather jackets.png" style="" />
+                                    <img class="img-fluid d-block mx-auto" src="assets/images/sketch 3.png" style="max-height: 300px; width: auto" />
+
+
+                                    <div class="portfolio-area mt-5">
+                                        <div class="contaner">
+                                            <div class="portfolio-style">
+                                                <div class="row grid">
+                                                    <div class="col-4 grid-item cat1">
+                                                        <div class="single-portfolio  mb-30">
+                                                            <div class="portfolio-img-text">
+                                                                <div class="portfolio-img">
+                                                                    <a href="#">
+                                                                        <img src="assets/images/570501013.jpg" alt="" />
+                                                                    </a>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-8 grid-item cat1">
+                                                        <div class="single-portfolio  mb-30">
+                                                            <div class="portfolio-img-text">
+                                                                <div class="portfolio-img">
+                                                                    <a href="#">
+                                                                        <img src="assets/images/578006233.jpg" alt="" />
+                                                                    </a>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-4 grid-item cat1">
+                                                        <div class="single-portfolio  mb-30">
+                                                            <div class="portfolio-img-text">
+                                                                <div class="portfolio-img">
+                                                                    <a href="#">
+                                                                        <img src="assets/images/744745159.jpg" alt="" />
+                                                                    </a>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                </div>
                             </div>
                             <div class="col-12 col-lg-6 mt-3">
                                 <div class="text-left">
@@ -236,12 +286,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/BOND.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/Baobab.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Bond</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/BOND.jpg">
+                                                    <h3>Baobab</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/Baobab.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
@@ -287,12 +337,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/CINDY.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/Ambiance.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Cindy</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/CINDY.jpg">
+                                                    <h3>Ambiance</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/Ambiance.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
@@ -304,12 +354,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/COBALT.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/Terra.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Cobalt</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/COBALT.jpg">
+                                                    <h3>Terra</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/Terra.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
@@ -338,12 +388,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/JACKY.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/Jeromine 2.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Jacky</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/JACKY.jpg">
+                                                    <h3>Jeromine</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/Jeromine 2.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
@@ -372,12 +422,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/JOHNY.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/Marine.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Johny</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/JOHNY.jpg">
+                                                    <h3>Marine</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/Marine.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
@@ -423,12 +473,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/LINK.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/Jeromine.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Link</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/LINK.jpg">
+                                                    <h3>Jeromine</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/Jeromine.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
@@ -457,12 +507,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/ROSY.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/Marc.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Rosy</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/ROSY.jpg">
+                                                    <h3>Marc</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/Marc.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
