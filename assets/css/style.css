@@ -67,6 +67,12 @@ section#OurStory {
 section#LeatherTypes {
     background-color: #FDFCFA;
 }
+section#OurMarket {
+    background-color: #FDFCFA;
+    padding: 0;
+    padding-top: 3em;
+    margin-bottom: 5em;
+}
 #AwardWinning {
     background: url("../images/award.jpg");
     height: 280px;
@@ -184,7 +190,7 @@ section#Contact {
 }
 #contact-form input
 .footer-area {
-    margin-top: -2em;
+    margin-top: -23em;
 }
 #Products {
     background-color: #f8f7f4;

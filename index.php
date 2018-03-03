@@ -559,6 +559,13 @@ can be dyed to any color to fit into color scheme of the season.</p>
                     </div>
                 </div>
             </section>
+            <section id="OurMarket" class="jumbotron justify-content-center">
+                    <div class="col section-heading mt-5 mt-md-1 mt-lg-5 mb-5">
+                            <h1>Our Market</h1>
+                    </div>
+                  <iframe src="https://snazzymaps.com/embed/52596" width="100%" height="400px" style="border:none;" /></iframe>
+            </section>
+            <hr />
             <section id="Contact" class="jumbotron">
                 <div class="container">
                     <div class="row">
@@ -635,6 +642,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                     </div>
                 </div>
             </section>
+
         </div>
 
 		<footer class="black-bg footer-area pb-3 pt-3">
