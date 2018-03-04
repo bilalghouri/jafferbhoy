@@ -458,12 +458,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/LEOCADIE.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/LEOCADIE.JPG" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
                                                     <h3>Leocadie</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/LEOCADIE.jpg">
+                                                    <a class="img-poppu" href="assets/images/portfolio/LEOCADIE.JPG">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
@@ -492,12 +492,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/MARIA.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/MARIA.JPG" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
                                                     <h3>Maria</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/MARIA.jpg">
+                                                    <a class="img-poppu" href="assets/images/portfolio/MARIA.JPG">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
