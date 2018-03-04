@@ -95,9 +95,9 @@ section#OurMarket {
     letter-spacing: 1.5rem;
     border: 1px solid #fff;
 }
-section#LeatherTypes > .container {
+section#LeatherTypes {
 
-    background: url("../images/377655466.jpg");
+    background: url("../images/578006233.jpg");
     height: 300px;
     background-attachment: fixed;
     background-position: center;
@@ -105,6 +105,7 @@ section#LeatherTypes > .container {
     background-size: cover;
     border-radius: 0;
     background-color: rgba(209, 120, 24, 0.5);
+    margin-bottom: 0 !important;
 }
 section#AboutLeather, #AboutLeather .content {
     overflow:hidden;
@@ -225,7 +226,7 @@ section#Contact {
 
 #header {
     height: 100%;
-    background:  url("../images/main.png");
+    background:  url("../images/main.jpg");
     position: relative;
     background-position: center;
     background-repeat: no-repeat;

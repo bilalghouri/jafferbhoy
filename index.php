@@ -106,14 +106,16 @@ changed, but one underlying idea has stayed the same – <br /><br />“The cust
                     <!-- <div class="row mt-110 mt-xl-5 justify-content-center" style="">
                         <a class="text-small text-uppercase" href="/products">Read More <i class="fa fa-arrow-right"></i></a>
                     </div> -->
-                    <div id="AwardWinning" class="mt-5 mb-5 text-center text-uppercase align-middle">
-                        <h1 class="d-inline-flex">We know our leather</h1>
-                    </div>
+
                     <div class="row d-sm-block text-center">
                         <div class="col-12 arrow-down mt-5 mb-5">
                             <a href="#Craftmanship"><img class="mx-auto d-block" src="assets/images/arrow down.png" /></a>
                             <a href="#Craftmanship"><span class="text-small text-uppercase">Scroll Down</span></a>
                         </div>
+                    </div>
+
+                    <div id="AwardWinning" class="mt-5 mb-5 text-center text-uppercase align-middle">
+                        <h1 class="d-inline-flex">We know our leather</h1>
                     </div>
                 </div>
             </section>
@@ -270,7 +272,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                     <div class="portfolio-area ptb-80">
                         <div class="container">
                             <div class="row justify-content-center">
-                                <div class="col section-heading">
+                                <div class="col section-heading mt-5">
                                     <h1>Our Products</h1>
                                 </div>
                             </div>
