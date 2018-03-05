@@ -288,12 +288,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/Baobab.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/BOND.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Baobab</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/Baobab.jpg">
+                                                    <h3>Bond</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/BOND.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
@@ -424,12 +424,12 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/Marine.jpg" alt="" />
+                                                        <img src="assets/images/portfolio/JOHNY.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Marine</h3>
-                                                    <a class="img-poppu" href="assets/images/portfolio/Marine.jpg">
+                                                    <h3>Johny</h3>
+                                                    <a class="img-poppu" href="assets/images/portfolio/JOHNY.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
                                                 </div>
