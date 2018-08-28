@@ -292,7 +292,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>1</h3>
+                                                    <!-- <h3>1</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/1.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -309,7 +309,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>2</h3>
+                                                    <!-- <h3>2</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/2.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -326,7 +326,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>3</h3>
+                                                    <!-- <h3>3</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/3.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -343,7 +343,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Ambiance</h3>
+                                                    <!-- <h3>Ambiance</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/Ambiance.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -360,7 +360,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Terra</h3>
+                                                    <!-- <h3>Terra</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/Terra.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -377,7 +377,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>4</h3>
+                                                    <!-- <h3>4</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/4.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -394,7 +394,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Jeromine</h3>
+                                                    <!-- <h3>Jeromine</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/Jeromine 2.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -411,7 +411,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>5</h3>
+                                                    <!-- <h3>5</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/5.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -428,7 +428,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>6</h3>
+                                                    <!-- <h3>6</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/6.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -445,7 +445,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>7</h3>
+                                                    <!-- <h3>7</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/7.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -462,7 +462,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>8</h3>
+                                                    <!-- <h3>8</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/8.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -479,7 +479,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Jeromine</h3>
+                                                    <!-- <h3>Jeromine</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/Jeromine.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -496,7 +496,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Maria</h3>
+                                                    <!-- <h3>Maria</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/MARIA.JPG">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -513,7 +513,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Marc</h3>
+                                                    <!-- <h3>Marc</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/Marc.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -530,7 +530,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Sunny</h3>
+                                                    <!-- <h3>Sunny</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/SUNNY.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -547,7 +547,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>Washington</h3>
+                                                    <!-- <h3>Washington</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/WASHINGTON.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -564,7 +564,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>9</h3>
+                                                    <!-- <h3>9</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/9.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -581,7 +581,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>10</h3>
+                                                    <!-- <h3>10</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/10.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -598,7 +598,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>11</h3>
+                                                    <!-- <h3>11</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/11.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -615,7 +615,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>12</h3>
+                                                    <!-- <h3>12</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/12.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -632,7 +632,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>13</h3>
+                                                    <!-- <h3>13</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/13.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -649,7 +649,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>14</h3>
+                                                    <!-- <h3>14</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/14.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -666,7 +666,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>15</h3>
+                                                    <!-- <h3>15</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/15.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -683,7 +683,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>16</h3>
+                                                    <!-- <h3>16</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/16.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -700,7 +700,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>17</h3>
+                                                    <!-- <h3>17</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/17.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -717,7 +717,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>18</h3>
+                                                    <!-- <h3>18</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/18.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -734,7 +734,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>19</h3>
+                                                    <!-- <h3>19</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/19.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -751,7 +751,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>20</h3>
+                                                    <!-- <h3>20</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/20.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -768,7 +768,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>21</h3>
+                                                    <!-- <h3>21</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/21.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
@@ -785,7 +785,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                                     </a>
                                                 </div>
                                                 <div class="portfolio-title">
-                                                    <h3>22</h3>
+                                                    <!-- <h3>22</h3> -->
                                                     <a class="img-poppu" href="assets/images/portfolio/22.jpg">
                                                         <i class="fa fa-search"></i>
                                                     </a>
