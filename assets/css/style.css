@@ -888,7 +888,7 @@ section#Contact {
     transform: translateY(-10px);
     transition: all 0.4s ease-in-out 0s;
 }
-.portfolio-title > h3::before {
+/*.portfolio-title > h3::before {
     background-color: #000000;
     bottom: -21px;
     content: "";
@@ -898,7 +898,7 @@ section#Contact {
     position: absolute;
     right: 0;
     width: 40px;
-}
+}*/
 .portfolio-title > h3 a {
     color: #222222;
 }
