@@ -482,24 +482,6 @@ can be dyed to any color to fit into color scheme of the season.</p>
                                             <div class="portfolio-img-text">
                                                 <div class="portfolio-img">
                                                     <a href="#">
-                                                        <img src="assets/images/portfolio/18.jpg" alt="" />
-                                                    </a>
-                                                </div>
-                                                <div class="portfolio-title">
-                                                    <!-- <h3>18</h3> -->
-                                                    <a class="img-poppu" href="assets/images/portfolio/18.jpg">
-                                                        <i class="fa fa-search"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-3 col-sm-6 col-6 grid-item cat1">
-                                        <div class="single-portfolio portfolio-hover mb-30">
-                                            <div class="portfolio-img-text">
-                                                <div class="portfolio-img">
-                                                    <a href="#">
                                                         <img src="assets/images/portfolio/20.jpg" alt="" />
                                                     </a>
                                                 </div>
