@@ -4,7 +4,7 @@ $(function() {
 	var form = $('#contact-form');
 
 	// Get the messages div.
-	var formMessages = $('.form-messege');
+	var formMessages = $('.form-messages');
 
 	// Set up an event listener for the contact form.
 	$(form).submit(function(e) {

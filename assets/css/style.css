@@ -175,6 +175,19 @@ section#Contact {
 #contact-form input:focus, #contact-form textarea:focus {
     border-color: #bfbfbf;
 }
+.form-messages {
+    border: 1px solid;
+    padding: 15px;
+    font-size: 14px;
+}
+.form-messages.error {
+    border-color: #f94d54;
+    color: #f94d54;
+}
+.form-messages.success {
+    border-color: #87d902;
+    color: #87d902;
+}
 ::-webkit-input-placeholder {
     font-size: 0.8em !important;
     line-height: 1em !important;

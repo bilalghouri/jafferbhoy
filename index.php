@@ -543,6 +543,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
 
             <section id="Contact" class="jumbotron">
                 <div class="container">
+                    <div class="row form-messages"> </div>
                     <div class="row">
                          <h1>
                             <!-- <span class="text-small text-uppercase">Contact</span> -->
@@ -603,7 +604,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
                             <div class="row mt-5">
                                 <div class="col">
                                     <label for="message" class="form-label">Message</label>
-                                    <textarea id="message" name="message"></textarea>
+                                    <textarea id="message" class="message" name="message"></textarea>
                                 </div>
                             </div>
                             <div class="row mt-2 text-lg-right">
@@ -654,7 +655,7 @@ can be dyed to any color to fit into color scheme of the season.</p>
         <script src="assets/js/imagesloaded.pkgd.min.js"></script>
         <!-- <script src="assets/js/jquery.counterup.min.js"></script> -->
         <!-- <script src="assets/js/waypoints.min.js"></script> -->
-        <!-- <script src="assets/js/ajax-mail.js"></script> -->
+        <script src="assets/js/ajax-mail.js"></script>
         <!-- <script src="assets/js/owl.carousel.min.js"></script> -->
         <script src="assets/js/plugins.js"></script>
         <script src="assets/js/main.js"></script>
