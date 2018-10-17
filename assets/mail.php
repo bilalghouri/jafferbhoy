@@ -8,7 +8,7 @@ require 'PHPMailer/src/PHPMailer.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST")
 {
-    $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
+    $mail = new PHPMailer(true);
     try {
         $firstname = strip_tags(trim($_POST["firstname"]));
         $firstname = str_replace(array("\r","\n"),array(" "," "),$firstname);
@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
             exit;
         }
         //Recipients
-        $mail->setFrom($email, $firstname." ".$lastname);
+        $mail->setFrom("no-reply@jafferbhoymeheralli.com", "Contact Form");
         $mail->addAddress("Aly@jafferbhoymeheralli.com");
         $mail->addCC('Jafferm64@hotmail.com');
         $mail->addCC('bilal@obsidianmedia.io');
@@ -38,7 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         $email_content = "Name: $firstname $lastname\r";
         $email_content .= "Company: $company\r";
         $email_content .= "Email: $email\r\r";
-        $email_content .= "Subject: $subject\r\r";
+        $email_content .= "Phone: $phone\r\r";
         $email_content .= "Message:\r$message\r";
 
         $mail->Body = $email_content;
