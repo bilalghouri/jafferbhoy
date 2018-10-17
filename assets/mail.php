@@ -22,7 +22,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         // Check that data was sent to the mailer.
         if ( empty($firstname) OR empty($lastname) OR empty($company) OR empty($subject) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
             http_response_code(400);
-            throw new Exception("Please complete the form and try again.");
+            echo "Please complete the form and try again.";
+            exit;
         }
         //Recipients
         $mail->setFrom($email, $firstname." ".$lastname);
