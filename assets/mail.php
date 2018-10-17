@@ -16,8 +16,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         $lastname = str_replace(array("\r","\n"),array(" "," "),$lastname);
         $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
         $subject = trim($_POST["subject"]);
+        $phone = trim($_POST["phone"]);
         $company = trim($_POST["company"]);
         $message = trim($_POST["message"]);
+
+        print_r($_POST);
+        exit;
 
         // Check that data was sent to the mailer.
         if ( empty($firstname) OR empty($lastname) OR empty($company) OR empty($subject) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
