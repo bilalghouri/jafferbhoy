@@ -28,10 +28,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         }
         //Recipients
         $mail->setFrom("no-reply@jafferbhoymeheralli.com", "Contact Form");
-        $mail->addAddress("bilalghouri@gmail.com");
         $mail->addAddress("Aly@jafferbhoymeheralli.com");
         $mail->addCC('Jafferm64@hotmail.com');
-        $mail->addCC('bilal@obsidianmedia.io');
 
         //Content
         $mail->isHTML(false);
