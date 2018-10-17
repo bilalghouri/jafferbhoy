@@ -10,7 +10,7 @@ $(function() {
 	$(form).submit(function(e) {
 		// Stop the browser from submitting the form.
 		e.preventDefault();
-
+		$(formMessages).hide();
 		// Serialize the form data.
 		var formData = $(form).serialize();
 
@@ -25,9 +25,10 @@ $(function() {
 			$(formMessages).removeClass('error');
 			$(formMessages).addClass('success');
 
+
 			// Set the message text.
 			$(formMessages).text(response);
-
+			$(formMessages).show();
 			// Clear the form.
 			$('#contact-form input,#contact-form textarea').val('');
 		})
@@ -42,6 +43,7 @@ $(function() {
 			} else {
 				$(formMessages).text('Oops! An error occured and your message could not be sent.');
 			}
+			$(formMessages).show();
 		});
 	});
 
