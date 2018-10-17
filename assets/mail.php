@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 
         //Content
         $mail->isHTML(false);
-        $mail->isSendmail();
+        $mail->isMail();
         $mail->Subject = 'Contact Form: '.$firstname." ".$lastname;
         // Build the email content.
         $email_content = "Name: $firstname $lastname\r";
