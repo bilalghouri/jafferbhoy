@@ -42,11 +42,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         $email_content .= "Message:\r$message\r";
 
         $mail->Body = $email_content;
-        $mail->send();
-
-        http_response_code(200);
-        echo 'Thank You! Your message has been sent.';
-
+        if ($mail->send())
+        {
+            http_response_code(200);
+            echo 'Thank You! Your message has been sent.';
+        }
     }
     catch (Exception $e)
     {
